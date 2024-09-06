@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 4"
+title: "A study of mechanisms and approaches for IoV trust models requirements achievement"
 collection: publications
 category: conferences
 permalink: /publication/2024-02-17-paper-title-number-4
