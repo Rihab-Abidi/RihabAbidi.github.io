@@ -1,14 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "A study of mechanisms and approaches for IoV trust models requirements achievement"
 collection: publications
 category: manuscripts
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+excerpt: 'Intelligent Transportation Systems (ITS) are a promising research area that offers a variety of applications. The objective of these applications is to enhance road safety, to optimize traffic efficiency, and to provide a better driving experience. Yet, the efficiency of ITS applications, such as safety and driver assistance applications, relies essentially on the exchanged data between different entities of the network. Accordingly, trust management models are used to guarantee the quality of the data and to eliminate malicious and selfish nodes to secure vehicular communications. In this paper, we pay a special attention to the requirements of trust management models used in the context of ITS applications. We also dissected the trust model to extract the mechanisms used in the literature to fulfil the identified requirements. Furthermore, we present the most known simulators and evaluation metrics that are used to validate the proposed models. The aim of this study is to provide a global overview of the mechanisms that may be used to fulfil the crucial requirements of trust management models. For this purpose, we employed a systematic mapping study, through which we carefully analysed 60 selected articles. Through our analysis, five main requirements were identified: scalability, accuracy, robustness, privacy preservation, appropriate response time. Different mechanisms and techniques were applied to meet with the identified requirements. Two main findings are reported: (1) The accuracy and robustness requirements are the most considered requirements. On the other hand, the privacy requirement is the least covered by the publications, (2) the majority of the reviewed papers focus on addressing two or three requirements at most. A little number of publications covered all the requirements. Based on the identified research gaps, we highlight some future directions that may be investigated. We provide general recommendations that may serve as a guideline for researchers who want to design trust models that fulfil certain requirements.'
+date: 2023-09-08
+venue: 'The Journal of Supercomputing'
+slidesurl: ''
+paperurl: 'https://doi.org/10.1007/s11227-023-05620-6'
+citation: 'Abidi, R., Azzouna, N.B., Trojet, W. et al. A study of mechanisms and approaches for IoV trust models requirements achievement. J Supercomput 80, 4157–4201 (2024).'
 ---
 
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
